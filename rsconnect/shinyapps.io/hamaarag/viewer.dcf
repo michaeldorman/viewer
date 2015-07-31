@@ -1,0 +1,8 @@
+name: viewer
+account: hamaarag
+server: shinyapps.io
+bundleId: 227494
+url: https://hamaarag.shinyapps.io/viewer
+when: 1438072784.40164
+asMultiple: FALSE
+asStatic: FALSE
